@@ -116,6 +116,10 @@ nav ul li a:hover{
     height: 10vh;
 }
 
+.footer h4{
+    margin-left: 80vh;
+}
+
 
 
 
@@ -201,12 +205,11 @@ nav ul li a:hover{
 
     .footer{
         height: 20vh;
-        margin-left: 40vh;
     }
 
     .footer h4{
         align-items: center;
-        
+        margin-left: 13vh;
     }
     
 }
